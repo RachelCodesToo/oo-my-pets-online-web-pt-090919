@@ -31,6 +31,6 @@ class Owner
   end
   
   def cat
-  
+    cats.
   
 end
