@@ -50,6 +50,11 @@ class Owner
     dogs.collect{|dog| dog.mood = "happy"}
   end 
   
+  def feed_cats
+    cats.collect{|cat| cat.mood = "happy"}
+  end 
+  
+  
   
   
 
