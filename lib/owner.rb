@@ -57,7 +57,7 @@ class Owner
   def sell_pets
     (cats + dogs).collect do |pet|
       pet.mood = "nervous"
-      pet.owner.clear
+      pet.owner= 0
     end 
   end 
     
