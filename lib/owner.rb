@@ -42,6 +42,10 @@ class Owner
     cats << Cat.new(cat, self)
   end 
   
+  def buy_dog(dog)
+    dogs << Dog.net(cat, self)
+  end 
+  
   
 
     
