@@ -11,6 +11,6 @@ class Owner
   end 
   
   def say_species
-    @species
+    
   
 end
