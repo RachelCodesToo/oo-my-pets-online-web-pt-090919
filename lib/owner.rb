@@ -40,7 +40,9 @@ class Owner
   
   def buy_cat
     cat << cat.new(cat, self)
-    
+  end 
+  
+  def 
     
     
   
