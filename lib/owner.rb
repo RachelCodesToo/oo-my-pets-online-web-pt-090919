@@ -30,6 +30,7 @@ class Owner
     self.all.clear
   end
   
+  def cat
   
   
 end
