@@ -42,7 +42,7 @@ class Owner
     cat << cat.new(cat, self)
   end 
   
-  def buy_dog
+
     
     
   
