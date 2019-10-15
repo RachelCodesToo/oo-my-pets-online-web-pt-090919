@@ -1,3 +1,5 @@
 class Cat
   
+  attr
+  
 end
