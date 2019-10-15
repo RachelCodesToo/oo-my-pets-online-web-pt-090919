@@ -30,7 +30,7 @@ class Owner
     self.all.clear
   end
   
-  def cat
+  def cats
     Cat.all.select{|cat| cat.owner == self}
   end 
   
